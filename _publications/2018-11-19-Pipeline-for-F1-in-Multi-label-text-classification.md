@@ -30,6 +30,6 @@ Accepted as a short paper, with 6 pages.
 
 Download
 ------
-[[pdf](http://bingyouwang.github.io/files/pipeline.pdf)]
+[[Paper](http://bingyouwang.github.io/files/pipeline.pdf)] [[Poster-TODO](TODO)]
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
