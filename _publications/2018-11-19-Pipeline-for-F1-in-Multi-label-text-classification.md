@@ -9,13 +9,14 @@ paperurl: 'https://bingyouwang.github.io/files/pipeline.pdf'
 ---
 Bingyu Wang, Cheng Li, Virgil Pavlu, Javed Aslam
 
-Advisor
-------
-Professor [Javed Aslam](http://www.ccs.neu.edu/home/jaa/)
 
 Abstract
 ------
 Multi-label text classification is the machine learning task wherein each document is tagged with multiple labels, and this task is uniquely challenging due to high dimensional features and correlated labels. Such text classifiers need to be regularized to prevent severe over-fitting in the high dimensional space, and they also need to take into account label dependencies in order to make accurate predictions under uncertainty. Many classic multi-label learning algorithms focus on incorporating label dependencies in the model training phase and optimize for the strict set-accuracy measure. We propose a new pipeline which takes such algorithms and improves their F1-performance with careful training regularization and a new prediction strategy based on support inference, calibration and GFM, to the point that classic multi-label models are able to outperform recent sophisticated methods (PDsparse, SPEN) and models (LSF, CFT, CLEMS) designed specifically to be multi-label F-optimal. Beyond performance and practical contributions, we further demonstrate that support inference acts as a strong regularizer on the label prediction structure.
+
+Advisor
+------
+Professor [Javed Aslam](http://www.ccs.neu.edu/home/jaa/)
 
 Advisor's Statement
 ------
