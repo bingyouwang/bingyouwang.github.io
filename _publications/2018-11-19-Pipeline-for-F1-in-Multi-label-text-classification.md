@@ -3,7 +3,7 @@ title: "A Pipeline for Optimizing F1-Measure in Multi-Label Text Classification"
 collection: publications
 permalink: /publication/pipeline
 excerpt: 'A pipeline, with carefully regularizing both features during training and label structure during prediction, was proposed to optimize the F1-measure in the text multi-label classification.'
-date: 2018
+date: 2018-11-19
 venue: '17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA'
 paperurl: 'https://bingyouwang.github.io/files/pipeline.pdf'
 ---
