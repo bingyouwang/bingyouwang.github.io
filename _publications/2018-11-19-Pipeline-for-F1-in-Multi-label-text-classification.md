@@ -15,6 +15,6 @@ Multi-label text classification is the machine learning task wherein each docume
 
 Download
 ------
-[[pdf](http://academicpages.github.io/files/pipeline.pdf)]
+[[pdf](http://bingyouwang.github.io/files/pipeline.pdf)]
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
