@@ -22,9 +22,9 @@ Advisor's Statement
 [TODO]
 
 ## Acceptance Rate:
-Accepted as short paper, with 6 pages. Main Conference Acceptance Rate:
 * Regular Papers: 31%  
 * Short Papers:   14%  
+Accepted as a short paper, with 6 pages.   
 
 ## Download
 ------
