@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pipeline
 excerpt: 'A pipeline, with carefully regularizing both features during training and label structure during prediction, was proposed to optimize the F1-measure in the text multi-label classification.'
 date: 2018-11-19
-venue: '[17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA](https://www.icmla-conference.org/icmla18/)'
+venue: '17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA'
 paperurl: 'https://bingyouwang.github.io/files/pipeline.pdf'
 ---
 Bingyu Wang, Cheng Li, Virgil Pavlu, Javed Aslam
