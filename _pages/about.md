@@ -14,5 +14,5 @@ Selected Publications
 ======
 1. [A Pipeline for Optimizing F1-Measure in Multi-Label Text Classification](https://bingyouwang.github.io/publication/pipeline)  
    Bingyu Wang, Cheng Li, Virgil Pavlu, Javed Aslam  
-   *Proceedings of the 17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA*
+   *Proceedings of the 17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA, 2018*
  
