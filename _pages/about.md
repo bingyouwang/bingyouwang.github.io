@@ -12,7 +12,7 @@ I am currently a Ph.D. candidate in the [College of Computer and Information Sci
 
 Selected Publications
 ======
-1. [A Pipeline for Optimizing F1-Measure in Multi-Label Text Classification](https://bingyouwang.github.io/publication/pipeline)__
-   Bingyu Wang, Cheng Li, Virgil Pavlu, Javed Aslam__
-   * Proceedings of the 17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA * __
+1. [A Pipeline for Optimizing F1-Measure in Multi-Label Text Classification](https://bingyouwang.github.io/publication/pipeline)  
+   Bingyu Wang, Cheng Li, Virgil Pavlu, Javed Aslam  
+   * Proceedings of the 17th IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA *
  
