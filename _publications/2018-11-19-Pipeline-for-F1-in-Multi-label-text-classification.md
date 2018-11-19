@@ -22,12 +22,13 @@ Advisor's Statement
 ------
 [TODO]
 
-## Acceptance Rate:
+Acceptance Rate:
+------
 * Regular Papers: 31%  
 * Short Papers:   14%  
 Accepted as a short paper, with 6 pages.   
 
-## Download
+Download
 ------
 [[pdf](http://bingyouwang.github.io/files/pipeline.pdf)]
 
