@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the [College of Computer and Information Science](https://www.ccis.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by Professor [Javed Aslam](http://www.ccs.neu.edu/home/jaa/). I earned my master's degree in computer science from [Northeastern University](https://www.northeastern.edu/) in United States and my bachelor's degree in engineering from [Northwest University](http://www.nwu.edu.cn/) in China. 
+I am currently a Ph.D. candidate in the [College of Computer and Information Science](https://www.ccis.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by Professor [Javed Aslam](http://www.ccs.neu.edu/home/jaa/) since 2015. I earned my master degree in computer science from [Northeastern University](https://www.northeastern.edu/), United States in 2014, and got bachelor degree in engineering from [Northwest University](http://www.nwu.edu.cn/), China, in 2012.
 
 Selected Publications
 ======
