@@ -20,7 +20,7 @@ Professor [Javed Aslam](http://www.ccs.neu.edu/home/jaa/)
 
 Advisor's Statement
 ------
-[TODO]
+Bingyu was the first and primary author on this paper: he conceived many of the ideas, conducted all of the experiments, drew most of the conclusions and insights, and did most of the writing.  The initial idea behind the paper was a mix of research and engineering: how could one build an efficient and effective machine learning pipeline for a particular objective (muti-label F1 optimization)?  In addition to building such a pipeline, this work additionally led to novel and surprising insights into the reasons why other machine learning methods for this problem work (or fail).  
 
 Acceptance Rate:
 ------
