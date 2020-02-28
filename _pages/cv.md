@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Open in [PDF](http://bingyuwang.net/files/BingyuWang_resume_March_2019.pdf)
+Open in [PDF](http://bingyuwang.net/files/resume.pdf)
 <!-- 
 Education
 ======
